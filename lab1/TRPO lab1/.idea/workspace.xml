@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Students:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3deab1c9-c880-48bd-89e5-299e2e32d2e1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../..//public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../..//src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../..//src/components/sale-buttons/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../..//src/components/sale-buttons/index.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../..//src/components/sale-text/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../..//src/components/sale-text/index.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../..//src/compound/flash/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../..//src/compound/flash/index.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../..//src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../..//src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../..//src/pages/sale-page/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../..//src/pages/sale-page/index.module.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LoXD9isq539bsYGjjTXTcIPPUZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/УНИВЕР КОМП/ТРПО/lab3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="TRPO lab1.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Students_jar/TRPO lab1.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.TRPO lab1.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3deab1c9-c880-48bd-89e5-299e2e32d2e1" name="Changes" comment="" />
+      <created>1676538288041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676538288041</updated>
+      <workItem from="1676538289884" duration="2861000" />
+      <workItem from="1676552420993" duration="11612000" />
+      <workItem from="1676572717493" duration="3924000" />
+      <workItem from="1676577466378" duration="679000" />
+      <workItem from="1677082984301" duration="5300000" />
+      <workItem from="1677140048989" duration="245000" />
+      <workItem from="1677141261844" duration="817000" />
+      <workItem from="1677687944823" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
