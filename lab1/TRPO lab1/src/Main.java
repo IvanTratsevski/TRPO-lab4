@@ -5,6 +5,11 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        RepositoryClass rc = new RepositoryClass();
+        rc.addNewStudent();
+        rc.addNewStudent();
+        System.out.println("Обновление");
+        rc.getStudents();
         Boolean isExit = false;
         Student[] students = new Student[0];
         Student[] studentsExample = {
@@ -16,6 +21,7 @@ public class Main {
                 new ScholarshipStudent("Jordan","IPT-11",3.7,6,true),
                 new ScholarshipStudent("Jim","IPT-11",9.4,5,false)
         };
+
         while(!isExit){
             System.out.println("Выберите действие:");
             System.out.println("1 - Добавить студента");
